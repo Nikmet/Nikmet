@@ -1,16 +1,19 @@
-### Hi there 👋
+# Привет, меня зовут Никита
 
-<!--
-**Nikmet/nikmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Описаие
 
-Here are some ideas to get you started:
+## Стек технологий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- javascript
+- SCSS или SASS
+  
+## Лучшие работы
+
+- [Todo приложение](https://nikmet.github.io/todo1/)
+
+![todopic](https://disk.yandex.ru/i/xTpR7J2LU0iwtw)
+
+- [LoftHouse](https://nikmet.github.io/LoftHouse/)
+- [Портфолио фрилансера](nikmet.github.io/portfolio/)
