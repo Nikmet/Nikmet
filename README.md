@@ -26,5 +26,5 @@
 
 
 - [Таймер медитации](https://nikmet.github.io/meditation_timer/)
-- 
+
 ![image](https://github.com/Nikmet/nikmet/assets/99484808/fc478849-214a-40bf-90dd-f154b82c6c84)
