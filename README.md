@@ -23,3 +23,8 @@
 - [Портфолио фрилансера](https://nikmet.github.io/portfolio/)
   
 [![image.png](https://i.postimg.cc/VL2mGpJ2/image.png)](https://postimg.cc/HV0qjS4t)
+
+
+- [Таймер медитации](https://nikmet.github.io/meditation_timer/)
+- 
+![image](https://github.com/Nikmet/nikmet/assets/99484808/fc478849-214a-40bf-90dd-f154b82c6c84)
