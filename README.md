@@ -31,5 +31,5 @@
 
 - [Коллекция книг](https://nikmet.github.io/books/)
 
-- ![image](https://github.com/Nikmet/nikmet/assets/99484808/e5201ed1-e18b-42b1-b7a5-827472ae499a)
+![image](https://github.com/Nikmet/nikmet/assets/99484808/e5201ed1-e18b-42b1-b7a5-827472ae499a)
 
