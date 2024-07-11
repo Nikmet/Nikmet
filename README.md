@@ -19,13 +19,13 @@
 
 ## Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikmet&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikmet&theme=nord_dark)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikmet&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![codewars](https://www.codewars.com/users/Nikmet/badges/large)](https://www.codewars.com/users/Nikmet)   
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikmet&theme=solarized_dark)
+
 
 
 
