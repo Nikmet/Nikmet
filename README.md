@@ -24,7 +24,7 @@
                 <tr>
                     <td>
                         <div>
-                            <a href="https://github.com/Nikmet/pizza-app-react"
+                            <a href="https://github.com/Nikmet/pizza-app-react" target="_blank"
                                 >Интернет магазин доставки пиццы</a
                             >
                             <img
@@ -35,7 +35,7 @@
                     </td>
                     <td>
                         <div>
-                            <a href="https://github.com/Nikmet/notepad-react"
+                            <a href="https://github.com/Nikmet/notepad-react" target="_blank"
                                 >Приложение для заметок</a
                             >
                             <img
@@ -46,7 +46,7 @@
                     </td>
                     <td>
                         <div>
-                            <a href="https://nikmet.github.io/books/">Сервис по поиску книг</a>
+                            <a href="https://nikmet.github.io/books/" target="_blank">Сервис по поиску книг</a>
                             <img
                                 src="https://i.postimg.cc/Qt2JCPMY/image.png"
                                 alt="Сервис по поиску книг"
