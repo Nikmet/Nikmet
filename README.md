@@ -17,14 +17,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-## Статистика
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikmet&theme=nord_dark)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikmet&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![codewars](https://www.codewars.com/users/Nikmet/badges/large)](https://www.codewars.com/users/Nikmet)
-
 ## Портфолио
 
  <table>
@@ -64,3 +56,13 @@
                 </tr>
             </tbody>
         </table>
+
+
+## Статистика
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikmet&theme=nord_dark)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikmet&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![codewars](https://www.codewars.com/users/Nikmet/badges/large)](https://www.codewars.com/users/Nikmet)
+
