@@ -19,10 +19,6 @@
 
 ## Статистика
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg](https://github-readme-stats.vercel.app/api?username=Nikmet&show_icons=true)" alt="Статисктика" height="50" />  
-</div>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikmet&show_icons=true)
 
 
