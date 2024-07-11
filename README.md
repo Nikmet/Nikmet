@@ -25,6 +25,8 @@
 
 [![codewars](https://www.codewars.com/users/Nikmet/badges/large)](https://www.codewars.com/users/Nikmet)   
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikmet&theme=solarized_dark)
+
 
 
 
