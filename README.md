@@ -21,6 +21,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikmet&show_icons=true)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikmet&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
