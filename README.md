@@ -4,27 +4,28 @@
 
 ## Стек технологий
 
-- HTML
-- CSS
-- javascript
-- SCSS или SASS
-- Немного Node.js и express.js
-  
+-   HTML
+-   CSS
+-   javascript
+-   SCSS или SASS
+
 ## Лучшие работы
 
-- [Todo приложение](https://nikmet.github.io/todo1/)
+-   [Todo приложение](https://nikmet.github.io/todo1/)
 
 [![todo.png](https://i.postimg.cc/rmTphbPq/todo.png)](https://postimg.cc/SXZqRZ4P)
 
-- [LoftHouse](https://nikmet.github.io/LoftHouse/)
+-   [LoftHouse](https://nikmet.github.io/LoftHouse/)
 
 [![image.png](https://i.postimg.cc/Zq8byHK2/image.png)](https://postimg.cc/qt7VP8Kx)
 
+-   [Портфолио фрилансера](nikmet.github.io/portfolio/)
 
-- [Портфолио фрилансера](https://nikmet.github.io/portfolio/)
-  
 [![image.png](https://i.postimg.cc/VL2mGpJ2/image.png)](https://postimg.cc/HV0qjS4t)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikmet)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikmet&show_icons=true)
 
 - [Таймер медитации](https://nikmet.github.io/meditation_timer/)
 
