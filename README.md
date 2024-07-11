@@ -36,7 +36,7 @@
                                 >Интернет магазин доставки пиццы</a
                             >
                             <img
-                                src="https://i.postimg.cc/7hqbKMtY/2024-07-11-234550.png"
+                                src="https://i.postimg.cc/gcKxnQrw/2024-07-11-032756.png"
                                 alt="Интернет магазин доставки пиццы"
                             />
                         </div>
