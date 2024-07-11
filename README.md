@@ -1,4 +1,4 @@
-# Привет, меня зовут Никита
+# Привет, меня зовут Никита!
 
 Я начинающий frontend-разработчик. Последние 1,5 года совмещал обучение в колледже с самостоятельным изучением веб-разработки. Мир программирования меня заинтересовал еще со школы. Тогда я познакомился со своим первым языком программирования – Python. После знакомства с программированием я наткнулся на такое направление, как веб-разработка. Меня сразу заинтересовало данное направление, потому что, в отличии от Python, где все начальные программы пишутся в консоли, при помощи HTML и CSS можно сразу увидеть красивый результат. В течении нескольких лет я искал себя в разных технологиях, но по итогу вернуться в веб. Для себя я решил, что хочу стать front-end разработчиком. На протяжении последнего времени я стал изучать технологии, приведенные ниже. Меня мотивирует мое занятие программированием. Я считаю, что в будущем моя жизнь будет связана исключительно с веб программированием.
 
@@ -23,11 +23,44 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikmet&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![codewars](https://www.codewars.com/users/Nikmet/badges/large)](https://www.codewars.com/users/Nikmet)   
+[![codewars](https://www.codewars.com/users/Nikmet/badges/large)](https://www.codewars.com/users/Nikmet)
 
+## Портфолио
 
-
-
-
-
-
+ <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <div>
+                            <a href="https://github.com/Nikmet/pizza-app-react"
+                                >Интернет магазин доставки пиццы</a
+                            >
+                            <img
+                                src="https://i.postimg.cc/RVfb715n/image.png"
+                                alt="Интернет магазин доставки пиццы"
+                            />
+                        </div>
+                    </td>
+                    <td>
+                        <div>
+                            <a href="https://github.com/Nikmet/notepad-react"
+                                >Приложение для заметок</a
+                            >
+                            <img
+                                src="https://i.postimg.cc/6QQ0mnSc/image.png"
+                                alt="Приложение для заметок"
+                            />
+                        </div>
+                    </td>
+                    <td>
+                        <div>
+                            <a href="https://nikmet.github.io/books/">Сервис по поиску книг</a>
+                            <img
+                                src="https://i.postimg.cc/Qt2JCPMY/image.png"
+                                alt="Сервис по поиску книг"
+                            />
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
