@@ -54,6 +54,17 @@
                         </div>
                     </td>
                 </tr>
+                <tr>
+                 <td>
+                        <div>
+                            <a href="https://github.com/Nikmet/photo-culculator" target="_blank">Калькулятор расчета рекламной продукции</a>
+                            <img
+                                src="https://imgur.com/a/43Shypm"
+                                alt="Калькулятор расчета рекламной продукции"
+                            />
+                        </div>
+                    </td>
+                </tr>
             </tbody>
         </table>
 
