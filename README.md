@@ -35,17 +35,6 @@
                     </td>
                     <td>
                         <div>
-                            <a href="https://github.com/Nikmet/notepad-react" target="_blank"
-                                >Приложение для заметок</a
-                            >
-                            <img
-                                src="https://iimg.su/i/D4lNf)/6QQ0mnSc/image.png"
-                                alt="Приложение для заметок"
-                            />
-                        </div>
-                    </td>
-                    <td>
-                        <div>
                             <a href="https://nikmet.github.io/books/" target="_blank">Сервис по поиску книг</a>
                             <img
                                 src="https://i.postimg.cc/Qt2JCPMY/image.png"
