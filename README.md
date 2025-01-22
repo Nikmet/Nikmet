@@ -39,7 +39,7 @@
                                 >Приложение для заметок</a
                             >
                             <img
-                                src="https://i.postimg.cc/6QQ0mnSc/image.png"
+                                src="https://[i.postimg.cc](https://iimg.su/i/D4lNf)/6QQ0mnSc/image.png"
                                 alt="Приложение для заметок"
                             />
                         </div>
@@ -57,9 +57,9 @@
                 <tr>
                  <td>
                         <div>
-                            <a href="EQCLfvbkTrdUJ1wfyNI9uOdcK30z1wbWWX060mrXBNwp2Tse" target="_blank">Калькулятор расчета рекламной продукции</a>
+                            <a href="https://nikmet.github.io/photo-culculato" target="_blank">Калькулятор расчета рекламной продукции</a>
                             <img
-                                src="https://imgur.com/Ro0gvEf"
+                                src="https://postimg.cc/Bjr68tmj"
                                 alt="Калькулятор расчета рекламной продукции"
                             />
                         </div>
