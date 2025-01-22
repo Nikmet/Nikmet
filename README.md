@@ -59,7 +59,7 @@
                         <div>
                             <a href="https://github.com/Nikmet/photo-culculator" target="_blank">Калькулятор расчета рекламной продукции</a>
                             <img
-                                src="https://imgur.com/a/43Shypm"
+                                src="https://imgur.com/Ro0gvEf"
                                 alt="Калькулятор расчета рекламной продукции"
                             />
                         </div>
