@@ -39,7 +39,7 @@
                                 >Приложение для заметок</a
                             >
                             <img
-                                src="https://[i.postimg.cc](https://iimg.su/i/D4lNf)/6QQ0mnSc/image.png"
+                                src="https://iimg.su/i/D4lNf)/6QQ0mnSc/image.png"
                                 alt="Приложение для заметок"
                             />
                         </div>
