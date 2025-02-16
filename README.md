@@ -53,6 +53,15 @@
                             />
                         </div>
                     </td>
+                     <td>
+                        <div>
+                            <a href="https://pizza-next-five.vercel.app/" target="_blank">Интерент магазин по продаже пиццы на Next.js</a>
+                            <img
+                                src="https://i.postimg.cc/8CTj0sWV/2025-02-16-232007.png"
+                                alt="Интерент магазин по продаже пиццы на Next.js"
+                            />
+                        </div>
+                    </td>
                 </tr>
             </tbody>
         </table>
