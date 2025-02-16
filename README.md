@@ -24,11 +24,11 @@
                 <tr>
                     <td>
                         <div>
-                            <a href="https://github.com/Nikmet/pizza-app-react" target="_blank"
-                                >Интернет магазин доставки пиццы</a
+                            <a href="https://nikmet.github.io/pizza-app-react/" target="_blank"
+                                >Интернет магазин доставки пиццы на react</a
                             >
                             <img
-                                src="https://i.postimg.cc/gcKxnQrw/2024-07-11-032756.png"
+                                src="https://github.com/Nikmet/assets/blob/main/react-pizza.png"
                                 alt="Интернет магазин доставки пиццы"
                             />
                         </div>
@@ -37,7 +37,7 @@
                         <div>
                             <a href="https://nikmet.github.io/books/" target="_blank">Сервис по поиску книг</a>
                             <img
-                                src="https://i.postimg.cc/Qt2JCPMY/image.png"
+                                src="https://github.com/Nikmet/assets/blob/main/book-service.png"
                                 alt="Сервис по поиску книг"
                             />
                         </div>
@@ -57,7 +57,7 @@
                         <div>
                             <a href="https://pizza-next-five.vercel.app/" target="_blank">Интерент магазин по продаже пиццы на Next.js</a>
                             <img
-                                src="https://github.com/Nikmet/assets/blob/main/Снимок%20экрана%202025-02-16%20232007.png"
+                                src="https://github.com/Nikmet/assets/blob/main/pizza-next.png"
                                 alt="Интерент магазин по продаже пиццы на Next.js"
                             />
                         </div>
